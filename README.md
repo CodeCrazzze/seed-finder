@@ -1,4 +1,5 @@
 Ethereum Balance Finder
+
 This code is a Python program designed to search for Ethereum balances associated with specific seed phrases. It utilizes various libraries such as eth_account, colorama, and web3 for interacting with the Ethereum network, as well as aiohttp and asyncio for asynchronous request handling.
 
 The program begins by importing the necessary modules and setting the console title to display the ETH balance. It then initializes the Finder class, which is responsible for the main logic of the program.
